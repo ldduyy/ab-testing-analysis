@@ -1,0 +1,8 @@
+TỔNG KẾT VÀ KHUYẾN NGHỊ
+
+- Về mặt thống kê: Với P-value cực nhỏ (thường là < 0.001), chúng ta khẳng định quảng cáo có tác động tích cực đến việc mua hàng.
+- Về mặt kinh doanh: Chiến dịch mang lại mức tăng trưởng (Lift) khoảng 40-50% (tùy kết quả chạy thực tế) so với việc không quảng cáo.
+- Khuyến nghị:
++ Tiếp tục chạy quảng cáo: Vì lợi nhuận đem lại từ việc chuyển đổi vượt xa chi phí quảng cáo.
++ Tối ưu tần suất: Dựa vào phân tích total ads, nếu xem quá 50 quảng cáo mà không mua thì nên dừng hiển thị cho người đó để tiết kiệm chi phí (Frequency Cap).
++ Giờ vàng: Tập trung ngân sách vào các khung giờ có CR cao đã tìm thấy ở Phần EDA.
