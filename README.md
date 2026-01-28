@@ -1,4 +1,4 @@
-# Marketing A/B Testing Analysis
+# A/B Testing Analysis
 
 ## Project Overview
 Dự án này phân tích hiệu quả của một chiến dịch quảng cáo bằng cách sử dụng kiểm định thống kê. 
@@ -20,5 +20,3 @@ Mục tiêu là xác định xem quảng cáo có thực sự làm tăng tỷ l�
 - **Conversion Rate (PSA group):** 1.78%
 - **Statistical Significance:** P-value < 0.05, bác bỏ giả thuyết H0.
 - **Lift:** Chiến dịch quảng cáo giúp tăng tỷ lệ chuyển đổi lên ~43%.
-
-![alt text](image.png) ![alt text](image-1.png)
